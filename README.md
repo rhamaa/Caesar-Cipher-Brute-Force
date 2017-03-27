@@ -1,2 +1,7 @@
 # Caesar-Cipher-Brute-Force
-Caesar Cipher Brute Force With Python
+Implementing Caesar Cipher Brute Force With Python
+
+## Usage
+`python caesar_brute.py <string>`
+
+![usage-caesar](caesar.png)
